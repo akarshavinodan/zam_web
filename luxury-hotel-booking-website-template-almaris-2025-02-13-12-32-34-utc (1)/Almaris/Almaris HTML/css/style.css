@@ -2931,6 +2931,7 @@ header.header-light .h-phone span{
 .post-image img {
   width: 100%;
   margin-bottom: 0px;
+  height: 400px;
 }
 .post-image .d-tagline{
   position: absolute;

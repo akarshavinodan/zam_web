@@ -1,0 +1,50 @@
+Almaris 1.1.6
+New added: Homepage Lake Side Hotel (homepage-lake-side-hotel.html)
+
+Almaris 1.1.5
+New added: Homepage Minimal (homepage-minimal.html)
+
+Almaris 1.1.4
+Update for Booking and Contact form
+
+Almaris 1.1.3
+New added: Homepage Ski Resort (02_ski-resort-homepage.html)
+
+Almaris 1.1.2
+New added: Homepage Elegant (homepage-holiday.html)
+
+Almaris 1.1.1
+New added: Homepage Elegant (homepage-elegant.html)
+
+Almaris 1.1.0
+Fixed: contact form not send email (new file added: contact.js)
+
+Almaris 1.0.9
+New added: Homepage Bold 2 (homepage-bold-2.html)
+New added: Rooms Style 3 (room-style-3.html)
+
+Almaris 1.0.8
+New added: Homepage Bold (homepage-bold.html)
+
+Almaris 1.0.7
+New added: Homepage Modern 2 (homepage-modern-2.html)
+New added: Homepage Modern 2 Dark (homepage-modern-2-dark.html)
+
+Almaris 1.0.6
+New added: Special Offers Page (special-offers.html)
+New added: Special Offers Page Single (special-offers-single.html)
+
+Almaris 1.0.5
+New added: Rooms Single Style 2 (room-single-style-2.html)
+
+Almaris 1.0.4
+New added: Rooms Style 2 (rooms-style-2.html)
+
+Almaris 1.0.3
+New added: Homepage Modern (homepage-modern.html)
+
+Almaris 1.0.2
+New added: topbar
+
+Almaris 1.0.1
+New added: Onepage Homepage Main (onepage-homepage-main.html)

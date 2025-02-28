@@ -2940,6 +2940,10 @@ header.header-light .h-phone span{
   line-height: 1em;
 }
 
+.hover-word{
+  font-weight: bold;
+  background-color:rgb(171, 137, 101);
+}
 .post-image .d-tagline span{
   font-size: 12px;
   color:#ffffff;

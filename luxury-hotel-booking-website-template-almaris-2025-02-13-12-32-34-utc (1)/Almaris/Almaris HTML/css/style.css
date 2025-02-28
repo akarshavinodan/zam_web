@@ -1245,6 +1245,9 @@ header.header-light #mainmenu a {
   background: rgba(var(--primary-color-rgb), .2);
 }
 
+.p1{
+  font-size: 23px;
+}
 
 .menu-col {
   list-style: none;

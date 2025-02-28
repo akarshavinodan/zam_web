@@ -21279,3 +21279,17 @@ border-radius:20px 0 0 20px;
     width: auto;
   }
 }
+
+
+@media (max-width: 576px) {  /* Small (sm) */
+  .hide-sm { display: none; }
+}
+@media (max-width: 768px) {  /* Medium (md) */
+  .hide-md { display: none; }
+}
+@media (max-width: 992px) {  /* Large (lg) */
+  .hide-lg { display: none; }
+}
+@media (max-width: 1024px) {  /* Extra Large (xl) */
+  #topbar { display: none; }
+}

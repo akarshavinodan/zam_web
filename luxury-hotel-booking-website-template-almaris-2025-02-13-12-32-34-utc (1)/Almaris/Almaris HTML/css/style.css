@@ -10463,10 +10463,10 @@ p{
 }
 
 p.lead {
-  font-size: 17px;
+  font-size: 23px;
   line-height: 32px;
   margin-top: 0;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 p.lead.big{

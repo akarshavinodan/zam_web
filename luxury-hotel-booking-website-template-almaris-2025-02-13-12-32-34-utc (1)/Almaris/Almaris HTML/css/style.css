@@ -12890,6 +12890,9 @@ i.bg-color-secondary {
   margin-bottom: 0;
 }
 
+#contact_form textarea {
+  height: 270px;
+}
 
 .grid-divider > [class*=col-]:nth-child(n+2):after {
   content: '';

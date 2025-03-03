@@ -21344,3 +21344,31 @@ border-radius:20px 0 0 20px;
 @media (max-width: 1024px) {  /* Extra Large (xl) */
   #topbar { display: none; }
 }
+
+/* ---------------------------------------chat----------------------------------------------------------- */
+.whatsapp-chat {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+.whatsapp-chat a {
+  background: #25d366;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+.whatsapp-chat a:hover {
+  background: #128C7E;
+  transform: translateY(-3px);
+}
+.whatsapp-chat i {
+  font-size: 24px;
+  margin-right: 10px;
+}

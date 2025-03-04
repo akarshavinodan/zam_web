@@ -21468,7 +21468,8 @@ border-radius:20px 0 0 20px;
 
 .process-container {
   padding: 40px 20px;
-  overflow-x: auto;
+  overflow-x: scroll;
+  overflow-y: hidden;
 }
 .process-steps {
   display: flex;
@@ -21483,8 +21484,8 @@ border-radius:20px 0 0 20px;
   gap: 20px;
 }
 .process-circle {
-  width: 180px;
-  height: 180px;
+  width: 200px;
+  height: 200px;
   perspective: 1000px;
 }
 .circle-flip {

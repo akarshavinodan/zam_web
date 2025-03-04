@@ -21377,6 +21377,7 @@ border-radius:20px 0 0 20px;
   background: rgba(0,0,0,0.5);
   backdrop-filter: blur(10px);
   transition: transform 0.3s ease;
+  height: 100%;
 }
 .bg-dark-opacity:hover {
   transform: translateY(-5px);
@@ -21391,4 +21392,7 @@ border-radius:20px 0 0 20px;
   width: 100px;
   height: 3px;
   margin: 15px auto;
+}
+.p{
+  font-size: 18px;
 }

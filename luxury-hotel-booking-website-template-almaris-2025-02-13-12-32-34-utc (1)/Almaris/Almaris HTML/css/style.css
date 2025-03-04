@@ -21610,3 +21610,12 @@ border-radius:20px 0 0 20px;
       height: 300px;
   }
 }
+
+
+
+.avatar-image {
+  width: 48px; /* Adjust size as needed */
+  height: 48px;
+  border-radius: 50%; /* Makes it circular */
+  object-fit: cover; /* Ensures the image fits well */
+}

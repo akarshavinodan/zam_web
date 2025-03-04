@@ -21372,3 +21372,23 @@ border-radius:20px 0 0 20px;
   font-size: 24px;
   margin-right: 10px;
 }
+
+.bg-dark-opacity {
+  background: rgba(0,0,0,0.5);
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s ease;
+}
+.bg-dark-opacity:hover {
+  transform: translateY(-5px);
+}
+.rounded-10 {
+  border-radius: 10px;
+}
+.quote-box {
+  border-left: 4px solid var(--primary-color);
+}
+.small-border {
+  width: 100px;
+  height: 3px;
+  margin: 15px auto;
+}
